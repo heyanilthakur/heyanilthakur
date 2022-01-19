@@ -3,7 +3,7 @@
 ## I'm a Blockchain Lover, Developer, content creator and adventurer!
 
 - 🗼 I study at [Chandigarh University](http://www.cuchd.in/)
-- 📘 I accomplished the [Google IT Support with Python Professional Certificate](https://www.youracclaim.com/badges/6009444b-bdd2-45ef-9c6b-3261f61de267/public_url)
+- 📘 I accomplished the [Google IT Support with Python Professional Certificate]
 - 🌳 I love making adventures in nature: sea or mountains I like them both
 - 🥅 Goals: Contribute and make more people aware about FOSS. #PRIVACY IS NOT A MYTH
 - ⚡ Fun fact: I love cooking.
