@@ -5,8 +5,7 @@
 - 🗼 I study at [Chandigarh University](http://www.cuchd.in/)
 - 📘 I accomplished the [Google IT Support with Python Professional Certificate](https://www.youracclaim.com/badges/6009444b-bdd2-45ef-9c6b-3261f61de267/public_url)
 - 🌳 I love making adventures in nature: sea or mountains I like them both
-- 🖼 I have a page of Blog website about my How To Things.
-- 🥅 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute and make more people aware about FOSS. #PRIVACY IS NOT A MYTH
 - ⚡ Fun fact: I love cooking.
 
 ### Connect with me:
@@ -39,5 +38,4 @@
 ---
 
 
-******%%[website]: https://anilxthakur.github.io/portfolio
 [linkedin]: http://www.linkedin.com/in/anilsinghthakur
