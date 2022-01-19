@@ -1,4 +1,4 @@
-### Hi there, I'm Anil - aka [anilxthakur][website] 👋
+### Hi there, I'm Anil 👋
 
 ## I'm a Blockchain Lover, Developer, content creator and adventurer!
 
@@ -39,5 +39,5 @@
 ---
 
 
-[website]: https://anilxthakur.github.io/portfolio
+******%%[website]: https://anilxthakur.github.io/portfolio
 [linkedin]: http://www.linkedin.com/in/anilsinghthakur
