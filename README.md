@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/anilsinghthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilsinghthakur" height="30" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?anilxthakur=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anilxthakur)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
