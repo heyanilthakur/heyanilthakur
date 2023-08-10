@@ -7,7 +7,7 @@
 
 - 📘 I accomplished the **Google IT support, Microsoft AZ-900, IBM Cybersecurity**
 
-- 💬 Ask me about **Cybersecurity, Java, Javascript, NodeJS, Springboot**
+- 💬 Ask me about **C++**
 
 - 🥅 Goals **Contribute and make more people aware about FOSS. #PRIVACY IS NOT A MYTH**
 
