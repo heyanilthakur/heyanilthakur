@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **advance c++ topics.**
 
-- 📘 I accomplished the **Google IT support, Microsoft AZ-900, IBM Cybersecurity**
-
 - 💬 Ask me about **linux and c++**
 
 - 📫 How to reach me **anilthakur.official@hotmail.com**
@@ -23,6 +21,11 @@
 <a href="https://stackoverflow.com/users/21194610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21194610" height="30" width="40" /></a>
 <a href="https://instagram.com/heyanilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyanilthakur" height="30" width="40" /></a>
 <a href="https://hashnode.com/@heyanilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@heyanilthakur" height="30" width="40" /></a>
+<a href="https://medium.com/@heyanilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heyanilthakur" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/heyanilthakur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heyanilthakur" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/heyanilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyanilthakur" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/heyanilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="heyanilthakur" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/heyanilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyanilthakur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
