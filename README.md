@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anil Thakur</h1>
 <h3 align="center">A passionate system software developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyanilthakur" alt="heyanilthakur" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyanilthakur" alt="heyanilthakur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/heyanilthakur" target="blank"><img src="https://img.shields.io/twitter/follow/heyanilthakur?logo=twitter&style=for-the-badge" alt="heyanilthakur" /></a> </p>
 
